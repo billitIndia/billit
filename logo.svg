@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <!-- Background pill shape -->
+  <rect x="10" y="10" width="110" height="40" rx="20" fill="#111827"/>
+  
+  <!-- Text "billit" -->
+  <text x="35" y="37" 
+        font-family="system-ui, -apple-system, sans-serif" 
+        font-size="24" 
+        font-weight="600" 
+        fill="#ffffff">
+    billit
+  </text>
+  
+  <!-- Animated dot -->
+  <!-- <circle cx="95" cy="30" r="4" fill="#EF4444"> -->
+    <!-- <animate attributeName="opacity"
+             values="1;0.2;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </animate> -->
+</svg>
